@@ -10,5 +10,3 @@ ReactDOM.render(
     </ApolloProvider>,
     document.getElementById("root")
 );
-
-
